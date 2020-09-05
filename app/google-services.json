@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "292071449001",
+    "firebase_url": "https://firenote-e55f4.firebaseio.com",
+    "project_id": "firenote-e55f4",
+    "storage_bucket": "firenote-e55f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292071449001:android:ccb4742f7f31784a55a4b8",
+        "android_client_info": {
+          "package_name": "com.example.firenote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292071449001-e8g9vr8nv004nv9rvh5r24lmucj4661i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qt_xRUICbCc7Omdr7fSw-NhDFSWFhIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292071449001-e8g9vr8nv004nv9rvh5r24lmucj4661i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
